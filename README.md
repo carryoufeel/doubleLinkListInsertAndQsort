@@ -1,0 +1,2 @@
+# doubleLinkListInsertAndQsort
+一种基于双向链表的大数据快速排序方法
